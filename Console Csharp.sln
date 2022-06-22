@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console", "Console\Console.csproj", "{A10D9F20-37D5-4030-8C58-20B083176259}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab_Form", "lab_Form\lab_Form.csproj", "{A7C10F98-95D5-4485-8D8C-BEAB9736DDD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork", "HomeWork\HomeWork.csproj", "{CEDF9F07-CAD8-4525-948B-43B3171C9615}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A10D9F20-37D5-4030-8C58-20B083176259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A10D9F20-37D5-4030-8C58-20B083176259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A10D9F20-37D5-4030-8C58-20B083176259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A10D9F20-37D5-4030-8C58-20B083176259}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7C10F98-95D5-4485-8D8C-BEAB9736DDD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7C10F98-95D5-4485-8D8C-BEAB9736DDD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7C10F98-95D5-4485-8D8C-BEAB9736DDD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7C10F98-95D5-4485-8D8C-BEAB9736DDD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEDF9F07-CAD8-4525-948B-43B3171C9615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEDF9F07-CAD8-4525-948B-43B3171C9615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEDF9F07-CAD8-4525-948B-43B3171C9615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEDF9F07-CAD8-4525-948B-43B3171C9615}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCAB0723-ADA8-4321-AA98-112CBEEC5FED}
+	EndGlobalSection
+EndGlobal
